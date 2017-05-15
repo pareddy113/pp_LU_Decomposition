@@ -1,0 +1,21 @@
+The generated random matrix is=
+3.000000 6.000000 7.000000 
+5.000000 3.000000 5.000000 
+6.000000 2.000000 9.000000 
+
+
+The Lower and Upper matrix embbedded in Original matrix is=
+3.000000 6.000000 7.000000 
+1.666667 -7.000000 -6.666666 
+2.000000 1.428571 4.523808 
+
+Determinant of the matrix is = -94.999977
+
+The total running time = 0.000071 seconds
+
+The total send time = 0.000029 seconds
+
+The total receive time = 0.000001 seconds
+
+The total computation time = 0.000041 seconds
+Job complete
