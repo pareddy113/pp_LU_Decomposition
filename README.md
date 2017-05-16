@@ -9,8 +9,8 @@ Use C and MPI to generate a random large square matrix and find the LU decomposi
 
 **_.pl_** files are the script files that automate the whole process by executing the c program and submitting the .pbs job to the cluster.
 
-**_.err_** files give any error while executing the job
+**_.err_** files give any error after executing the job.
 
-**_.out_** files are the output files of the job being executed
+**_.out_** files are the output files after the job being executed.
 
 Run the .pl file to start the program execution on the server.
